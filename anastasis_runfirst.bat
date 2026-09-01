@@ -83,6 +83,9 @@ CLS
 
 ECHO Preparations are complete to run Anastasis are complete.
 ECHO Set the game controls in JConfig if you haven't already done so. Make sure Joy1 is Player1 and Joy2 is Player2.
+ECHO If this is not the case, unplug both controllers, wait 5 seconds, then plug in Player1's controller only. Open JConfig and make sure it is recognized.
+ECHO Then, close JConfig, plug in Player2's controller, then wait 5 seconds, then open JConfig and both controllers should be recognized and in the correct order.
+ECHO.
 ECHO PS4/5 controllers will not work or must change to PC mode.
 ECHO If an axis automatically binds itself when you try to bind a button, you need to switch controller modes.
 ECHO Nintendo Switch mode or DInput mode works best for GP-2040CE controller PCBs.
